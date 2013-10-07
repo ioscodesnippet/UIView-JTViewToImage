@@ -1,10 +1,12 @@
-//
-//  UIView+JTViewToImage.m
-//
-//  Created by James Tang on 25/08/2011.
-//
+/*
+ * This file is part of the http://ioscodesnippet.com
+ * (c) Jamz Tang <jamz@jamztang.com>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
 
-#import "UIView+JTViewToImage.h"
+#import "UIView-JTViewToImage.h"
 #import <QuartzCore/QuartzCore.h>
 
 @implementation UIView (JTViewToImage)
