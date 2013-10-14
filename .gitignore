@@ -1,0 +1,6 @@
+Podfile.lock
+Pods
+*.xcworkspace
+*/._*
+._*
+.DS_Store
